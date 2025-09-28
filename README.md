@@ -13,3 +13,10 @@ AULA 2 - Análise de Dados
 Recursos utilizados:
     - pandas - para importação, limpeza e tratamento dos dados
     - plotly - para exibição de gráficos interativos
+
+AULA 3 - Criação de IA e previsões para mercado financeiro
+    IA que prevê score de clientes
+
+Recursos utilizados:
+    pandas - para importação da base de dados
+    scikit-learn - para criação de modelos de IA
